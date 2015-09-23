@@ -1,0 +1,23 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+```
+
+# mpr_templates
+
+mpr_templates contains a set of R Markdown templates that are formatted to be
+used in documents produced by Mathematica Policy Research, Inc. Currently,
+the package contains the following templates:
+
+* Nothing!!
