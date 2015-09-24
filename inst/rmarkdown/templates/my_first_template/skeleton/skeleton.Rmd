@@ -1,0 +1,53 @@
+---
+title: "Untitled"
+author: "Your name"
+date: "Sept 24, 2015"
+<!-- project: Project name and number? --> 
+<!-- purpose: --> 
+<!-- notes: --> 
+output:
+  html_document:
+    toc: true
+    fig_caption: true
+---
+
+
+
+
+
+
+# Preparation
+## Load external packages
+```{r packages, eval=FALSE}
+library(dplyr)
+library(devtools)
+
+```
+
+## Functional definitions
+```{r myfunc}
+myfunc <- function(x,y) {
+  x / y
+}
+```
+
+
+
+# Pre-processing
+## Read in data
+## Format variables
+## Exploratory plots
+
+
+# Analysis
+## Analysis step 1
+## Analysis step 2
+
+
+
+
+# Session Info
+```{r session_info}
+devtools::session_info()
+#sessionInfo()
+```

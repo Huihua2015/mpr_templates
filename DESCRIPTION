@@ -1,6 +1,6 @@
 Package: mpr_templates
 Type: Package
-Title: Mathematica Plicy Research Templates
+Title: Mathematica Policy Research Templates
 Version: 1.0
 Date: 2015-09-23
 Authors@R: person("Jonathan", "Gellar", , "JGellar@mathematica-mpr.com", c("aut", "cre")),
